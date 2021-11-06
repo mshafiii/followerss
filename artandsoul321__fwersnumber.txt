@@ -1,0 +1,14 @@
++-------------+--------------------------+-------------------------------+---------------+
+| ID          | Username                 | Full Name                     |     Phone     |
++-------------+--------------------------+-------------------------------+---------------+
+| 27043910252 | mariaosamaofficial       | Maria Osama Khan              | +923059999013 |
+| 1491408238  | hk.accessories           | HK Accessories 🇵🇰             | +923364422188 |
+| 21999850773 | graphic_designer_131     | TK.Design_official            | +923147794544 |
+| 7109857545  | ishq_mamnou              | عشق ممنوع                     | +923075757551 |
+| 8265847623  | dr_husnain_sarwar        | Dr Husnain🇵🇰 | Psychologist   | +923364584028 |
+| 5407467350  | storiesofgilgitbaltistan | Gilgit Baltistan  🔵           | +923329562223 |
+| 17327216860 | bedisaeventandtours      | Bedisa Events and Tours       | +923055311841 |
+| 29103902020 | classicgirl_glam         | 💃Dresses,shoes,trousers,tops💃 | +254796700907 |
+| 21755183177 | onlinegiftshop.pk        | Online Gift Shop              | +923066964646 |
+| 323787616   | arsalanarshadphotography | Arslan Arshad Mughal          | +923367878972 |
++-------------+--------------------------+-------------------------------+---------------+

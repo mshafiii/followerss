@@ -1,106 +1,725 @@
-+-------------+--------------------------------+--------------------------------+--------------------------------------------+
-| ID          | Username                       | Full Name                      | Email                                      |
-+-------------+--------------------------------+--------------------------------+--------------------------------------------+
-| 13077974110 | nofurtherq                     | No Further Questions Podcast   | nofurtherq@gmail.com                       |
-| 1746578413  | couturebliss                   | Couture Bliss Boutique         | Coutureblissboutique@gmail.com             |
-| 1768466956  | ieathouston                    | Ieathouston                    | ieathouston@gmail.com                      |
-| 8634052501  | the_mortgage_consultant        | Makis Whitaker                 | makis.whitaker@apmortgages.com             |
-| 45360192943 | nyammingsfusionbistrorichmond  | NyammingsFusionBistroRichmond  | nyammingsfusionbistrorichmond@gmail.com    |
-| 4432417709  | tyrajones_businessfunding      | Tyra Jonez                     | info@jonescorporatesolutions.net           |
-| 1443769712  | ledellmanuel_iii               | Superior Suds 409-234-6277     | superiorsudsdetailing@gmail.com            |
-| 7207284360  | iamjoni_                       | 𝐈 𝐀𝐌 𝐉𝐎𝐍𝐈™️                    | letscreate@iamjoni.com                     |
-| 1434594194  | seaq_tutors                    | SEAQ Tutorial Services ,LLC    | braveassetmgt@outlook.com                  |
-| 271580450   | divatrendsthestylist           | Mrs Jones                      | divatrendsinc@gmail.com                    |
-| 196409190   | msalready                      | msalready                      | netrababin@gmail.com                       |
-| 791146843   | sassyteezprintingco            | Shay Geter                     | sassyteez2012@gmail.com                    |
-| 1235487070  | authortljames                  | TL James-Author Speaker Coach  | mpiretrio@hotmail.com                      |
-| 3210290788  | erren_matthew                  | Erren Matthew                  | errenmatthew@gmail.com                     |
-| 3928952173  | bbandtherapy                   | Balanced Bodywork and Therapy  | tq.bbtherapy@gmail.com                     |
-| 11620033989 | chefdkp                        | Chef D | Food | Spices |Cater  | DKPPRODUCTSLLC@GMAIL.COM                   |
-| 647842902   | quiana0618                     | Ms. McGruder- "?"              | qmcgruder618@gmail.com                     |
-| 13220362220 | houstonpanamanians             | Houston Panamanians            | houstonpanamanians@gmail.com               |
-| 330853529   | 36ixtyvisuals                  | 36ixty Visuals Video           | info@36ixtyvisuals.com                     |
-| 2358392344  | mighty_everything              | Mp                             | mighty.ac.heat@gmail.com                   |
-| 5692045958  | figrestoration                 | Moncy Hawkins                  | erhawkins@figrestoration.com               |
-| 1482296893  | t1texas                        | T1Texas                        | info@t1texas.com                           |
-| 14062396680 | isomhomeservices               | Jeremy Isom                    | jeremyisom2@yahoo.com                      |
-| 2035896796  | sitejab                        | SiteJab                        | careteam@sitejab.com                       |
-| 242334998   | macebda1                       | Mace                           | maceok123@gmail.com                        |
-| 4034525085  | scoolboicutz                   | ScoolBoi CuTz                  | soolboi1@yahoo.com                         |
-| 36420924    | blessup_dre                    | Prince of Zamunda🌍🌄👑           | www.kingzpridepw@gmail.com                 |
-| 1768466956  | ieathouston                    | Ieathouston                    | ieathouston@gmail.com                      |
-| 1559641784  | mwg_taxservices                | MWG Financial Solutions & Tax  | info@mwgfinancialsol.com                   |
-| 2029231306  | livicationbiz                  | Livication Business Group      | ljohnson@livicationbusinessgroup.com       |
-| 11594931849 | theprintexperience             | Custom Business/Event Branding | theprintexperience@gmail.com               |
-| 10617894356 | nxtlevelmike                   | Michael Allen                  |                                            |
-|             |                                |                                | nxtlevelauto2018@gmail.com                 |
-|             |                                |                                |                                            |
-| 5656554870  | thesociallyconnected           | Jen | Social Media Agency      | hello@thesociallyconnected.com             |
-| 10858410060 | eventpartybox                  | Event Party Box                | contact@eventpartybox.com                  |
-| 263497312   | thefoodladycafe                | Laketra Miles                  | info@thefoodladycatering.com               |
-| 20583338    | thepeoplesrealtorhtx           | Jamaal Hood                    | jhood2415@icloud.com                       |
-| 300690051   | pdazzledme                     | P’Dazzled                      | pdazzledme1@gmail.com                      |
-| 2303157083  | goodelooksbarbershop           | Goode Looks Barbershop         | goodelooks1@yahoo.com                      |
-| 5889350632  | expogroupofficial              | The Expo Group                 | support@expomarketingagency.com            |
-| 1171542097  | vaahouston                     | Visual Arts Alliance           | publicity@visualartsalliance.org           |
-| 43360381    | drangellabanks                 | Angella Palmer-Banks           | drangellabanks@gmail.com                   |
-| 1267184888  | blueroc7clothing               | BlueRoc 7 Clothing             | info@blueroc7.com                          |
-| 187229235   | ontherocksost                  | On the Rocks Bar & Lounge      | ontherocksost@gmail.com                    |
-| 13280978271 | cpbookkeepingandtaxes          | Perla Licona                   | cpbookkeepingandtaxes@gmail.com            |
-| 31281780    | polished_well                  | Rashad Marquis                 | rashadmarquis@polishedwell.com             |
-| 5710387588  | therealjmoneymedia             | TRJ2                           | LamontTRJMmedia@gmail.com                  |
-| 5623834463  | xoxo__nicole                   | ms_nicolemurray                | nicole@thatdelishlife.com                  |
-| 648322142   | dpiddytv                       | Derrick Pittman                | dpiddy189@gmail.com                        |
-| 42250602    | aesthetics_intl                | SavvyLaser                     | eishashoediva@gmail.com                    |
-| 2967197850  | sherocksevents                 | SHE Rocks Events               | meika@sherocksevents.com                   |
-| 8137240039  | berkoandbayo                   | Germaine Compton               | berkoandbayo@gmail.com                     |
-| 14186675828 | natashacarrollrealty           | Natasha Carroll Realty         | natashacarroll@natashacarrollrealty.com    |
-| 206768622   | azmirabelay                    | I Build Iconik Brands.         | azmirabelay@gmail.com                      |
-| 46617489    | grahampriscilla                | Priscilla T Graham             | priscillagrahamphotography@gmail.com       |
-| 1611567124  | homesbyamilli                  | Houston Real Estate            | amandamilligan00@gmail.com                 |
-| 9076795     | badmuva_                       | Xcusmy_carisma                 | revyngeboutique@gmail.com                  |
-| 1958146207  | chicbeautehair                 | ChicBeautè                     | chicbeaute717@gmail.com                    |
-| 2340534792  | masonscreativecatering         | Kevin Mason                    | masonscreativecatering@yahoo.com           |
-| 199783387   | therealalphafemme              | Ms. Erica Sahrae               | info@thealphafemmeboutique.com             |
-| 1705622486  | roadragehouston                | Road Rage Corporation          | roadragehouston@gmail.com                  |
-| 203332887   | sheikapetteway                 | Sheika Jones Petteway          | 2.0@eliterevive.com                        |
-| 4034693771  | marinaacoryat                  | ✨Marina Angelica Coryat ✨      | marinacoryat@gmail.com                     |
-| 1658520689  | violinrichmond                 | Richmond Punch                 | richmondpunch@yahoo.com                    |
-| 53681511    | hdblingtshirts                 | HD BLING Tshirts               | hairdivinity@hotmail.com                   |
-| 2121415308  | denimpropertyhouses            | DENIM PROPERTY HOUSES          | 1cashoffer@gmail.com                       |
-| 1553066434  | victoriagarciastudios          | Victoria | Brand Photographer  | hello@victoriagarciastudios.com            |
-| 26974177    | cocokosmetiksmua               | CocoKosmetiksMUA               | cocokosmetiks1@yahoo.com                   |
-| 4065818180  | theidsuite                     | IDSUITE                        | ig@idsuite.me                              |
-| 4914824685  | sheswimwear                    | Kay Elle                       | sheswim@yahoo.com                          |
-| 278021855   | mrayeallen                     | MRaye Allen                    | mrayeallen@aol.com                         |
-| 23143480    | highpointe_dg                  | High Pointe Design Group       | highpointedg@gmail.com                     |
-| 1811538132  | angelhendersonismyagent        | Angel Henderson IMA            | angel.h.henderson.fc4c@statefarm.com       |
-| 38902496599 | imallearringshtx               | IM ALL EARRINGS ACCESSORIES    | andrea.r.garcia8@gmail.com                 |
-| 35149098    | dezthreesixty                  | Transformation Coach for Women | dez@dezthreesixty.com                      |
-| 4780955863  | suga.cooking.chronicles        | Suga Cooks                     | customersupport@sugacookingchronicles.shop |
-| 40122298    | chef_keisha_griggs             | Keisha Griggs                  | keishagriggs@bocagecatering.com            |
-| 33018456    | marquettajanay                 | Marquetta JaNay                | marquetta@harmlandvisions.com              |
-| 238691013   | queendryia                     | Randryia Houston Taylor, LCSW  | dryia@unleashyourmovement.com              |
-| 3498606917  | chiccollectivegroup            | Chic Collective Group          | info@chiccollectivegroup.com               |
-| 1432142224  | selfpublishn30days             | Darren M. Palmer               | dmpenterprises2014@gmail.com               |
-| 3956079765  | hcpassoc                       | HCPA                           | hcpassoc@gmail.com                         |
-| 8492387884  | southerngirldeniece            | Southern Girl                  | schantel.edwards@mail.com                  |
-| 3868597079  | ventureandgrow                 | Design & marketing by Nathan   | nl@ventureandgrow.com                      |
-| 1399613988  | mrscharlesandcharlesphotograph | Charles & Charles Photography  | charlesandcharlesphotography@gmail.com     |
-| 2143205849  | charlesedwinclothing           | CHARLES EDWIN CLOTHING         | charlesedwinclothing@gmail.com             |
-| 224209145   | blackgirltamaleschefdivah      | Black Girl Tamales             | netpcs@ymail.com                           |
-| 54857879    | thechaunvaughn                 | Chaun Vaughn❤️                 | chaun@chaunvaughnspeaks.com                |
-| 271916570   | zurielgibsonceo                | Zuriel Gibson                  | ms.zuriel@gmail.com                        |
-| 4708987144  | alldoneassembly                | Houston Assembly               | www.alldoneassembly@gmail.com              |
-| 35521078    | toritalks                      | Tori Rogers                    | info@ebonyexpats.com                       |
-| 3013519551  | iam_jermani                    | Jermani                        | jermani.justice@gmail.com                  |
-| 51670246    | fashionablymimi                | Leontyne McClure               | fashionablymimi@gmail.com                  |
-| 2089224621  | councilfwfashion               | Food Wine And Fashion          | councilfwfashion@gmail.com                 |
-| 506128235   | ladonnafinnels                 | La Donna Finnels-Neal          | info@ladonnafinnels.com                    |
-| 948310545   | creativesparks_image           | Houston Brand Photographer     | info@creativesparksimage.com               |
-| 46642998    | imallisondenise                | Brand It Beautifully™️         | allison@imallisondenise.com                |
-| 179730957   | travburbannites                | Travis Bryant                  | travis.bryantune@gmail.com                 |
-| 362576904   | djbigdaddy44                   | Roland Jones                   | jroland512@yahoo.com                       |
-| 1116712229  | iconbartenders                 | ICON Bartenders                | booking@iconbartenders.com                 |
-| 2384372928  | houstonstudioinc               | Houston Studio ™               | book@houstonstudio.com                     |
-+-------------+--------------------------------+--------------------------------+--------------------------------------------+
++-------------+--------------------------------+--------------------------------+---------------------------------------------+
+| ID          | Username                       | Full Name                      | Email                                       |
++-------------+--------------------------------+--------------------------------+---------------------------------------------+
+| 13077974110 | nofurtherq                     | No Further Questions Podcast   | nofurtherq@gmail.com                        |
+| 795698060   | cutsbyced                      | CutsByCed                      | cutsbyced215@gmail.com                      |
+| 8634052501  | the_mortgage_consultant        | Makis Whitaker                 | makis.whitaker@apmortgages.com              |
+| 1746578413  | couturebliss                   | Couture Bliss Boutique         | Coutureblissboutique@gmail.com              |
+| 45360192943 | nyammingsfusionbistrorichmond  | NyammingsFusionBistroRichmond  | nyammingsfusionbistrorichmond@gmail.com     |
+| 1443769712  | ledellmanuel_iii               | Superior Suds 409-234-6277     | superiorsudsdetailing@gmail.com             |
+| 1925721592  | luminessencebeauty             | Hair Stylists                  | luminessencebeautygroup@yahoo.com           |
+| 271580450   | divatrendsthestylist           | Mrs Jones                      | divatrendsinc@gmail.com                     |
+| 7207284360  | iamjoni_                       | 𝐈 𝐀𝐌 𝐉𝐎𝐍𝐈™️                    | letscreate@iamjoni.com                      |
+| 3928952173  | bbandtherapy                   | Balanced Bodywork and Therapy  | tq.bbtherapy@gmail.com                      |
+| 196409190   | msalready                      | msalready                      | netrababin@gmail.com                        |
+| 791146843   | sassyteezprintingco            | Shay Geter                     | sassyteez2012@gmail.com                     |
+| 13220362220 | houstonpanamanians             | Houston Panamanians            | houstonpanamanians@gmail.com                |
+| 2358392344  | mighty_everything              | Mp                             | mighty.ac.heat@gmail.com                    |
+| 5692045958  | figrestoration                 | Moncy Hawkins                  | erhawkins@figrestoration.com                |
+| 1235487070  | authortljames                  | TL James-Author Speaker Coach  | mpiretrio@hotmail.com                       |
+| 3210290788  | erren_matthew                  | Erren Matthew                  | errenmatthew@gmail.com                      |
+| 11620033989 | chefdkp                        | Chef D | Food | Spices |Cater  | DKPPRODUCTSLLC@GMAIL.COM                    |
+| 1482296893  | t1texas                        | T1Texas                        | info@t1texas.com                            |
+| 14062396680 | isomhomeservices               | Jeremy Isom                    | jeremyisom2@yahoo.com                       |
+| 647842902   | quiana0618                     | Ms. McGruder- "?"              | qmcgruder618@gmail.com                      |
+| 330853529   | 36ixtyvisuals                  | 36ixty Visuals Video           | info@36ixtyvisuals.com                      |
+| 2035896796  | sitejab                        | SiteJab                        | careteam@sitejab.com                        |
+| 4034525085  | scoolboicutz                   | ScoolBoi CuTz                  | soolboi1@yahoo.com                          |
+| 1520134486  | 1topnotchdesigns               | Tranel Flowers                 | topnotchdesigns@comcast.net                 |
+| 1559641784  | mwg_taxservices                | MWG Financial Solutions & Tax  | info@mwgfinancialsol.com                    |
+| 10617894356 | nxtlevelmike                   | Michael Allen                  |                                             |
+|             |                                |                                | nxtlevelauto2018@gmail.com                  |
+|             |                                |                                |                                             |
+| 11594931849 | theprintexperience             | Custom Business/Event Branding | theprintexperience@gmail.com                |
+| 2303157083  | goodelooksbarbershop           | Goode Looks Barbershop         | goodelooks1@yahoo.com                       |
+| 10858410060 | eventpartybox                  | Event Party Box                | contact@eventpartybox.com                   |
+| 20583338    | thepeoplesrealtorhtx           | Jamaal Hood                    | jhood2415@icloud.com                        |
+| 36420924    | blessup_dre                    | Prince of Zamunda🌍🌄👑           | www.kingzpridepw@gmail.com                  |
+| 2029231306  | livicationbiz                  | Livication Business Group      | ljohnson@livicationbusinessgroup.com        |
+| 5656554870  | thesociallyconnected           | Jen | Social Media Agency      | hello@thesociallyconnected.com              |
+| 795698060   | cutsbyced                      | CutsByCed                      | cutsbyced215@gmail.com                      |
+| 1267184888  | blueroc7clothing               | BlueRoc 7 Clothing             | info@blueroc7.com                           |
+| 187229235   | ontherocksost                  | On the Rocks Bar & Lounge      | ontherocksost@gmail.com                     |
+| 43360381    | drangellabanks                 | Angella Palmer-Banks           | drangellabanks@gmail.com                    |
+| 187229235   | ontherocksost                  | On the Rocks Bar & Lounge      | ontherocksost@gmail.com                     |
+| 43360381    | drangellabanks                 | Angella Palmer-Banks           | drangellabanks@gmail.com                    |
+| 1171542097  | vaahouston                     | Visual Arts Alliance           | publicity@visualartsalliance.org            |
+| 2967197850  | sherocksevents                 | SHE Rocks Events               | meika@sherocksevents.com                    |
+| 454225171   | appealmodelmgmt                | Stephanie Danielle, Owner      | info@appealmodelmgmt.com                    |
+| 5710387588  | therealjmoneymedia             | TRJ2                           | LamontTRJMmedia@gmail.com                   |
+| 648322142   | dpiddytv                       | Derrick Pittman                | dpiddy189@gmail.com                         |
+| 263497312   | thefoodladycafe                | Laketra Miles                  | info@thefoodladycatering.com                |
+| 46617489    | grahampriscilla                | Priscilla T Graham             | priscillagrahamphotography@gmail.com        |
+| 2089224621  | councilfwfashion               | Food Wine And Fashion          | councilfwfashion@gmail.com                  |
+| 31281780    | polished_well                  | Rashad Marquis                 | rashadmarquis@polishedwell.com              |
+| 42250602    | aesthetics_intl                | SavvyLaser                     | eishashoediva@gmail.com                     |
+| 14186675828 | natashacarrollrealty           | Natasha Carroll Realty         | natashacarroll@natashacarrollrealty.com     |
+| 1958146207  | chicbeautehair                 | ChicBeautè                     | chicbeaute717@gmail.com                     |
+| 3868597079  | ventureandgrow                 | Design & marketing by Nathan   | nl@ventureandgrow.com                       |
+| 206768622   | azmirabelay                    | I Build Iconik Brands.         | azmirabelay@gmail.com                       |
+| 145847744   | ashleyalston504                | Ashley Alston                  | info@joypeacebeyou.net                      |
+| 8137240039  | berkoandbayo                   | Germaine Compton               | berkoandbayo@gmail.com                      |
+| 33018456    | marquettajanay                 | Marquetta JaNay                | marquetta@harmlandvisions.com               |
+| 2340534792  | masonscreativecatering         | Kevin Mason                    | masonscreativecatering@yahoo.com            |
+| 4034693771  | marinaacoryat                  | ✨Marina Angelica Coryat ✨      | marinacoryat@gmail.com                      |
+| 2039088721  | mocitysportsgrill1             | mocitysportsgrill1             | mocitysportsgrill1@gmail.com                |
+| 203332887   | sheikapetteway                 | Sheika Jones Petteway          | 2.0@eliterevive.com                         |
+| 278021855   | mrayeallen                     | MRaye Allen                    | mrayeallen@aol.com                          |
+| 1658520689  | violinrichmond                 | Richmond Punch                 | richmondpunch@yahoo.com                     |
+| 224209145   | blackgirltamaleschefdivah      | Black Girl Tamales             | netpcs@ymail.com                            |
+| 53681511    | hdblingtshirts                 | HD BLING Tshirts               | hairdivinity@hotmail.com                    |
+| 300690051   | pdazzledme                     | P’Dazzled                      | pdazzledme1@gmail.com                       |
+| 1611567124  | homesbyamilli                  | Houston Real Estate            | amandamilligan00@gmail.com                  |
+| 9076795     | badmuva_                       | Xcusmy_carisma                 | revyngeboutique@gmail.com                   |
+| 409441339   | kaiwatson.artistry             | BEAUTY STRATEGIST 🎯            | beautymarkbykai@gmail.com                   |
+| 26974177    | cocokosmetiksmua               | CocoKosmetiksMUA               | cocokosmetiks1@yahoo.com                    |
+| 4065818180  | theidsuite                     | IDSUITE                        | ig@idsuite.me                               |
+| 1811538132  | angelhendersonismyagent        | Angel Henderson IMA            | angel.h.henderson.fc4c@statefarm.com        |
+| 3956079765  | hcpassoc                       | HCPA                           | hcpassoc@gmail.com                          |
+| 23143480    | highpointe_dg                  | High Pointe Design Group       | highpointedg@gmail.com                      |
+| 199783387   | therealalphafemme              | Ms. Erica Sahrae               | info@thealphafemmeboutique.com              |
+| 5623834463  | xoxo__nicole                   | ms_nicolemurray                | nicole@thatdelishlife.com                   |
+| 40122298    | chef_keisha_griggs             | Keisha Griggs                  | keishagriggs@bocagecatering.com             |
+| 2982716903  | 1stladyevents                  | 1st Lady Events, LLC           | 1stladyevents@gmail.com                     |
+| 314936966   | ishoottolive                   | Tunde Rashad                   | tunderashad@gmail.com                       |
+| 8492387884  | southerngirldeniece            | Southern Girl                  | schantel.edwards@mail.com                   |
+| 238691013   | queendryia                     | Randryia Houston Taylor, LCSW  | dryia@unleashyourmovement.com               |
+| 4780955863  | suga.cooking.chronicles        | Suga Cooks                     | customersupport@sugacookingchronicles.shop  |
+| 3498606917  | chiccollectivegroup            | Chic Collective Group          | info@chiccollectivegroup.com                |
+| 1432142224  | selfpublishn30days             | Darren M. Palmer               | dmpenterprises2014@gmail.com                |
+| 2143205849  | charlesedwinclothing           | CHARLES EDWIN CLOTHING         | charlesedwinclothing@gmail.com              |
+| 4432417709  | tyrajones_businessfunding      | Tyra Jonez                     | info@jonescorporatesolutions.net            |
+| 1399613988  | mrscharlesandcharlesphotograph | Charles & Charles Photography  | charlesandcharlesphotography@gmail.com      |
+| 13280978271 | cpbookkeepingandtaxes          | Perla Licona                   | cpbookkeepingandtaxes@gmail.com             |
+| 506128235   | ladonnafinnels                 | La Donna Finnels-Neal          | info@ladonnafinnels.com                     |
+| 51670246    | fashionablymimi                | Leontyne McClure               | fashionablymimi@gmail.com                   |
+| 394076450   | wendijturner                   | Wendi J Turner (HOH Founder)   | info@hopeoverhurt.org                       |
+| 3013519551  | iam_jermani                    | Jermani                        | jermani.justice@gmail.com                   |
+| 54857879    | thechaunvaughn                 | Chaun Vaughn❤️                 | chaun@chaunvaughnspeaks.com                 |
+| 35521078    | toritalks                      | Tori Rogers                    | info@ebonyexpats.com                        |
+| 23796915    | tonisanderscfei                | Toni Sanders, CFEI Official    | tonisanderswfg@gmail.com                    |
+| 4708987144  | alldoneassembly                | Houston Assembly               | www.alldoneassembly@gmail.com               |
+| 4205470939  | akilah_glaspie                 | Akilah Glaspie                 | akilah@taxrightway.com                      |
+| 948310545   | creativesparks_image           | Houston Brand Photographer     | info@creativesparksimage.com                |
+| 1553066434  | victoriagarciastudios          | Victoria | Brand Photographer  | hello@victoriagarciastudios.com             |
+| 179730957   | travburbannites                | Travis Bryant                  | travis.bryantune@gmail.com                  |
+| 362576904   | djbigdaddy44                   | Roland Jones                   | jroland512@yahoo.com                        |
+| 46642998    | imallisondenise                | Brand It Beautifully™️         | allison@imallisondenise.com                 |
+| 5889350632  | expogroupofficial              | The Expo Group                 | support@expomarketingagency.com             |
+| 1116712229  | iconbartenders                 | ICON Bartenders                | booking@iconbartenders.com                  |
+| 2384372928  | houstonstudioinc               | Houston Studio ™               | book@houstonstudio.com                      |
+| 1636890411  | thecorporatesister             | The Corporate Sister           | corporate@thecorporatesister.com            |
+| 35149098    | dezthreesixty                  | Transformation Coach for Women | dez@dezthreesixty.com                       |
+| 5406662546  | millionaire_mastermindacademy  | Millionaire Mastermind Academy | <<not-applicable>>                          |
+| 3177720797  | theauthorspen                  | Lindsy Bivens                  | info@tapwriting.com                         |
+| 8700616032  | efhou                          | Endo Foundation of Houston     | Info@efhou.org                              |
+| 1999017554  | realtortiffanyhill             | Tiffany Hill                   | realtortiffanyhill@gmail.com                |
+| 14010700725 | aixfirm                        | AIX FIRM                       | linda@aixfirm.com                           |
+| 1130781319  | divinebuttercreamcakes         | Divine Buttercream Cakes       | divinebuttercreamcakes@outlook.com          |
+| 1526813538  | codac_moment                   | Codac                          | codacmoments@gmail.com                      |
+| 32412656    | wykeshahayes                   | Leadership & Diversity Coach   | wchayes@keeygroup.com                       |
+| 31645242    | facebytara                     | Mua_Tara                       | facebytara@gmail.com                        |
+| 47248862    | fancyforte                     | FANCY FORTE                    | faymeusinc@gmail.com                        |
+| 208627551   | theonlymrrealestatellc         | REALTOR®️🗝                     | garlandbennett@kw.com                       |
+| 226809968   | richfitfoods1                  | Houston Meal Prep              | info@richfitfoods.com                       |
+| 15698533    | supercarroll                   | Bryan Carroll                  | bryancarroll17@gmail.com                    |
+| 228219949   | islandkissez                   | Island Kissez Spa Collection   | info@islandkissez.com                       |
+| 546477877   | simplytastefulcatering         | Simply Tasteful Catering🍴💙     | simplytastefulcatering@ymail.com            |
+| 930014559   | rhondadallas                   | Rhonda Dallas                  | info@d3health.net                           |
+| 1403684780  | theprototypeco                 | The Prototype Company          | theprototypepr@hotmail.com                  |
+| 5362079245  | corbettmitchellmedia           | Corbett Mitchell Media         | info@corbettmitchell.com                    |
+| 5889350632  | expogroupofficial              | The Expo Group                 | support@expomarketingagency.com             |
+| 10113691720 | mslwjcfed                      | MsLWJCFEd                      | lashondaj@mslwjcfed.com                     |
+| 48322679    | socialgoodinaction             | 𝓜𝓪𝓻𝓽𝓮𝓼𝓱𝓪 𝓗𝓪𝔂𝓷𝓮𝓼 - CEO/𝙵𝚘𝚞𝚗𝚍𝚎𝚛  | socialgoodinaction@gmail.com                |
+| 278256172   | rjcliftondesignsllc            | Rhonnika Clifton- Allied ASID  | rjcliftondesigns@yahoo.com                  |
+| 3511989965  | iselfcarewith_dr.tamara        | Tamara M. Harris, Ph.D.        | info@thsportpsych.com                       |
+| 416561843   | bjjohnson817                   | Bradley Johnson                | b.johnson@loudmuzik.com                     |
+| 1319948613  | americana.pool.service         | Americana Pool Service         | americanapoolser1982@gmail.com              |
+| 286195261   | nsnhouston                     | National Sales Network Houston | president@nsnhouston.org                    |
+| 3083702809  | golfstorehouston               | GOLF STORE HOUSTON             | goffer6333@yahoo.com                        |
+| 1950433457  | justblazefashionllc            | MyLissa Sneed                  | justblazefashionllc@yahoo.com               |
+| 1961280020  | cabo.events                    | CABO Events                    | caboeventshtx@gmail.com                     |
+| 912046441   | jwoodleyrealtyllc              | J Woodley Realty LLC           | jwoodley@jwrtxrealty.com                    |
+| 309416972   | mrsbaconbaby_rhwoh             | RHWOH                          | rhwohinfo@gmail.com                         |
+| 38902496599 | imallearringshtx               | IM ALL EARRINGS ACCESSORIES    | andrea.r.garcia8@gmail.com                  |
+| 283196914   | msrochelle1                    | Rochelle Johnson-Smith         | msrjohnson@gmail.com                        |
+| 5362599457  | counterstutoring               | Counter's Tutoring Connection  | info@counterstutoring.com                   |
+| 8488801755  | nyammingsfusionbistro          | Nyammings Fusion Bistro        | nyammingsfusionbistro@gmail.com             |
+| 1466084474  | abovethecurveclothing          | 🐝 ABOVE THE CURVE CLOTHING 🐝   | create@abovethecurvedesigns.com             |
+| 1997031960  | partywiththeincrowd            | The Incrowd                    | incrowdhtx@gmail.com                        |
+| 1997031960  | partywiththeincrowd            | The Incrowd                    | incrowdhtx@gmail.com                        |
+| 193088951   | fordhustle                     | A. Ford                        | aford@anthonyford.net                       |
+| 328448283   | contractcasey                  | Casey | Contract Lawyer        | hello@contractcasey.com                     |
+| 2051678973  | kraddlekare                    | Kraddle Kare                   | info@kraddlekare.com                        |
+| 25944889    | e_chrys                        | Edidiong “E.CHRYS” Obot        | info@echrys.com                             |
+| 2094846965  | sawmaevents                    | Sawma Events                   | maroun@sawmaevents.com                      |
+| 525970125   | allisongdaniels                | Allison G. Daniels             | allisongdaniels@verizon.net                 |
+| 3664392356  | kimeclow                       | Kim Clow                       | keclow@aol.com                              |
+| 4237721173  | workhubusa                     | WorkHub Developments, LLC      | leasing@workhubusa.com                      |
+| 184840702   | stepharechefrancoo             | SAF ☀️                         | safconex@gmail.com                          |
+| 358475316   | nuepps                         | Nu Epps                        | info@nuepps.com                             |
+| 328617165   | mark_iamart                    | 🧠👽🎨🖌️                          | mjarceneaux30@gmail.com                     |
+| 12897477658 | mjbcre8tive                    | Mj                             | mjbcre8tive@gmail.com                       |
+| 243672477   | comedianbrandyadams            | Comedian Brandy Adams          | confidence413@gmail.com                     |
+| 1545338637  | misssarajoyner                 | Sara Joyner                    | ihearthoustonrealestate@gmail.com           |
+| 3109033549  | realestatecpa                  | Real Estate CPA/Tax Strategist | Info@klrondenocpa.com                       |
+| 2830123430  | 13lovelylavenderlady           | LovelyLavenderLadyPreBirthSrvs | hello@lovelylavenderlady.com                |
+| 1656138704  | iamjazzilyn                    | JAZZILYN | SIMMONS             | Jazzilynsimmons2011@gmail.com               |
+| 577857119   | thebspotrealestate             | The B Spot Real Estate         | <<not-applicable>>                          |
+| 1624753324  | brotherword                    | BrotherWord                    | brotherword@brotherword.org                 |
+| 1682843722  | blmdesignstx                   | blmDesignsTX💄🏆💎✂️👑🎀💑           | blmdesignstx@gmail.com                      |
+| 1244559537  | focused.inner.g                | Danielle Frazier               | likeadivah@gmail.com                        |
+| 458219910   | trjmmedia                      | TheRealJmoneyMedia             | josephTRJMmedia@gmail.com                   |
+| 197742543   | pisces310_photography          | Bris                           | Pisces310photography@gmail.com              |
+| 3159257420  | rebuildingaac                  | Lewa Qpe                       | queen.playground@gmail.com                  |
+| 431106666   | best_life_preacher_vonn        | Best Life Media                | ultimatechoicewashing@gmail.com             |
+| 238741462   | crown_ur_glory                 | CrownUrGlory by Kala           | crownurglory@gmail.com                      |
+| 39302846610 | milksoaptrinity                |                                | milksoaptrinity@gmail.com                   |
+| 5968073721  | upwardartistry                 | Upward Artistry Talent Agency  | info@upwardartistry.com                     |
+| 3522136841  | yourbrandourstamp              | Darrick Chatman "Chappy"       | Ybos.info@Gmail.com                         |
+| 2220505534  | rightchoicetaxandins           | Right Choice Tax and Insurance | customerservice@rightchoicetaxandins.com    |
+| 253781276   | codeofstreetz                  | Code of Streetz                | guillotinestreetz804@gmail.com              |
+| 401542518   | thomasinajburns                | Thomasina J Burns              | tjburns@thomasinajburns.com                 |
+| 2121415308  | denimpropertyhouses            | DENIM PROPERTY HOUSES          | 1cashoffer@gmail.com                        |
+| 2957964805  | yvonne.moore.events            | Event Planner and Decor Rental | yvonnemooreevents@gmail.com                 |
+| 1395953714  | htowncasinoevents              | H-town Casino Events 🎲🎲🎲       | tamra@h-towncasinoevents.com                |
+| 1359220860  | springbranchsportsline         | Spring Branch Sports Line      | yourbranchnews@gmail.com                    |
+| 352801080   | carlondria_cve_dixon           | Carlondria Dixon               | cvechic@gmail.com                           |
+| 8341513165  | cmarie_thepurposebroker        | C. Marie Williams              | hello@cmariewilliams.com                    |
+| 381496595   | thejenniferexperience          | The Jennifer Experience        | thejenniferexperience@gmail.com             |
+| 54276467    | nay_dub                        | Johnee Johnson                 | divajjj2003@yahoo.com                       |
+| 35163727    | mrs__aliah                     | mrs_aliah                      | aliah@calbertstaxservice.com                |
+| 183286681   | signatureentrepreneur          | Corey D. Williams #CRYPTOCOREY | cdw1828@gmail.com                           |
+| 27302222023 | namictx                        | NAMIC TEXAS                    | namictx@gmail.com                           |
+| 1986608501  | successfulpromotions           | SUCCESSFUL PROMOTIONS          | successfulpromotions1@gmail.com             |
+| 46793197    | nicoleiam76                    | Ikeshia                        | msinlockett@ikeshia.com                     |
+| 173981796   | theterrygilbert                | The Terry Eugene Gilbert Jr    | terrygilbert.tg@gmail.com                   |
+| 45490292    | kb12nv                         | Kevin Bacon                    | kb.12nv@gmail.com                           |
+| 1359872039  | _idiascatering                 | Idias Catering / SSF LLC       | idiascatering@gmail.com                     |
+| 2206242156  | starclassent                   | Star Class Entertainment       | starclassent@gmail.com                      |
+| 241894670   | rottenchik                     | Charissa Nicole                | rottenlife99@gmail.com                      |
+| 1810922901  | houstonchildrenscharity_       | Houston Children's Charity     | hcc@houstonchildrenscharity.org             |
+| 182193546   | aliciamjammer                  | Alicia Jammer                  | aliciaalicia@aliciajammer.com               |
+| 1600887918  | paradigmphotobooths            | Paradigm Photo Booths          | info@paradigmphotobooths.com                |
+| 1529826100  | theandresjonesteam             | Andres Jones - Realtor         | andres@andresjones.com                      |
+| 33642342    | thecharleeking                 | Charlee King                   | qokhouston@yahoo.com                        |
+| 672348675   | doyou_fashions                 | Do You Fashions                | Doyoufashions@yahoo.com                     |
+| 179578255   | trisha_lacoste                 | Trish—Travel/Sports/Portraits📸 | hello@trishalacoste.com                     |
+| 179578255   | trisha_lacoste                 | Trish—Travel/Sports/Portraits📸 | hello@trishalacoste.com                     |
+| 1641839024  | happysmilesteethwhitening      | Happy Smiles Teeth Whitening   | happysmiles@live.com                        |
+| 215005192   | shebridgesmediainc             | Bridgett Shelise Holden        | bridgett@shebridgespr.com                   |
+| 271916570   | zurielgibsonceo                | Zuriel Gibson                  | ms.zuriel@gmail.com                         |
+| 5314170706  | rumphrealty                    | Rumph Realty                   | sarai@rumphrealty.com                       |
+| 6657726254  | cherisep1908                   | CHERISE P📱Digital Marketing 💜  | info@fangagenation.com                      |
+| 32825652    | heartworktrending              | Stephanie Davis, M.Ed, LPC     | heartworktrending@gmail.com                 |
+| 16114788    | jony_leong                     | Jony Leong                     | jony@jonyleong.com                          |
+| 2979202325  | shopcarlasue                   | Greeting Cards•Gifts•Community | carlasuehouston@gmail.com                   |
+| 3658001142  | allaccessartshow               | All Access Art                 | accessartshow@gmail.com                     |
+| 1409867331  | 1426fashionweek                | 1426 Fashion Week              | lindascotthouston@gmail.com                 |
+| 2182543848  | thecjmg                        | CJMG                           | info@thecjmg.com                            |
+| 280415090   | amymalkan                      | Artist and Muralist            | amy@amymalkan.com                           |
+| 1426578973  | eventsbyclb                    | Events By CLB                  | krystalclb@icloud.com                       |
+| 21893449    | derrickmc                      | derrickmc                      | d.mckinney@loudmuzik.com                    |
+| 1492867831  | impressivetravels              | Luxury Travel Agency est.2014  | impressivetravels@gmail.com                 |
+| 10378730851 | parkstreethomes                | Park Street Homes              | sales@parkstreethomes.com                   |
+| 185583558   | infante_creations              | Infante Creations              | info@infante-creations.com                  |
+| 7332604062  | soleaesthetictx                | Houston’s Hot🔥Doc In Heels👠    | info@soleaesthetictx.com                    |
+| 2976226256  | germainecompton                | Germaine Compton               | www.tusheaproductions@yahoo.com             |
+| 6791785319  | its_all_a_part_of_the_plan     | It’s All A Part Of The Plan    | ashley.kibbe@itsallapartoftheplan.com       |
+| 2534983536  | beatskinstudio                 | The Best #Selfcare Suite in TX | beatbyessence@gmail.com                     |
+| 4910971914  | owmediacompany                 | Obsessed With Media®           | dawn@obsessedwithmedia.com                  |
+| 1608409483  | evansallen52                   | Allen Evans                    | evansallen52@yahoo.com                      |
+| 1600540269  | cestbonseasoning               | C'est Bon Seasoning            | Pat@cestbonseasonings.com                   |
+| 53868043    | topnotchbartendingservices     | Top Notch bartending services  | topnotchbartendingservices@yahoo.com        |
+| 1395487093  | the_risque_experience          | The Risqùe Experience          | brisquellc@gmail.com                        |
+| 12286775684 | c3wnh19                        | C3 Women's Network-Houston     | c3wn-houston@doingfarmore.com               |
+| 4245866     | tjtijani                       | TJ Tijani | Rentalpreneur      | strroadmap@gmail.com                        |
+| 552622392   | toniemicheleworld              | .·★ ᴀɴᴛᴏɴɪᴀ ᴍᴄᴄʟᴀᴍᴍʏ ★·.·      | toniemcclammy@inversionsmm.com              |
+| 1930203217  | firehouse_fotos                | FireHouse Photography          | firehousemotors641@gmail.com                |
+| 214364587   | lilmzmillionaire               | The Lil Mz Millionaires Club   | info@lilmzmillionaire.com                   |
+| 442460087   | diggdeepfitness                | Joy Diggs- Trainer/Dietitian   | jdiggs@diggdeepfit.com                      |
+| 20576080    | salonblow                      | ✨Salon Blow ®✨                 | hello@salonblow.com                         |
+| 372308892   | devinecreationz                | Southern Belle                 | mydevinecreations@hotmail.com               |
+| 42105561    | owner_of_justblaze_fashion     | Melissa Sneed                  | justblazefashionllc@yahoo.com               |
+| 19947515    | iam_cheflindsey                | CHEF LINDSÈY  dè DUCHESS!      | lindseycaters@gmail.com                     |
+| 1972028070  | leleonfire75                   | Elishca Readoux                | elishcasuniquehairsalon@yahoo.com           |
+| 4040773499  | pacsnaks                       | Prestige Affairs Catering      | info@prestigeaffairscatering.com            |
+| 4267789584  | georgemillerbands              | George Miller BANDS MILLER     | musicbizatoz@yahoo.com                      |
+| 422362369   | essentialpromo                 |                                | Essentialpromomarketing@gmail.com           |
+| 394920869   | conversationswithkee           | Kee                            | conversationswithkee@gmail.com              |
+| 570014688   | visualdreamsmultimedia         | Tiffany Le'Titia               | Info@VisualDreamsMultimedia.com             |
+| 923045149   | sebastianjsanders              | Nonprofit Don 👑                | info.sebastiansanders@gmail.com             |
+| 339805219   | zydecoworkout                  | Zydeco Lady - Lola Love ❤️     | zydecoladylolalove@gmail.com                |
+| 187828561   | brashaes_raimons               | brashaes_raimons               | raimons_salon1@att.net                      |
+| 384918531   | tasteetees                     | Tastee Tee's Treats            | tasteetee@live.com                          |
+| 203140739   | theamberneal                   | Amber Neal                     | amber@amberneal.com                         |
+| 1941650364  | chayahforwater                 | Chayah                         | hello@chayahforwater.com                    |
+| 482362785   | jivejuicecompany               | Tamala Austin                  | info@jivejuicecompany.com                   |
+| 190236354   | elsqrd                         | eLsqrd Media Group             | info@elsqrd.com                             |
+| 4780453722  | nikkiberrymusic                | Music, Candles, Books, Actress | nikkiberrymusic@gmail.com                   |
+| 4662624283  | marcus_therealtor              | Marcus Bradley                 | marcusb9723@yahoo.com                       |
+| 16687397546 | nestasrecoveryhomehtx          | Nesta’s Recovery Houston       | nestashome@gmail.com                        |
+| 26123514    | lifeofjazzi                    | Welcome To The Life Of Jazzi   | jazzionair@gmail.com                        |
+| 1575011430  | jcsproject                     | Tiffannie Jones                | info@thejcsproject.org                      |
+| 26551353    | ownyourfancy                   | B r a n d i ✈️ Houston Blogger | brandi@ownyourfancy.com                     |
+| 184988002   | osthouston                     | Officer Selection Team Houston | john.leal@marines.usmc.mil                  |
+| 28008227    | thegoodwife                    | Proverbs 3:5                   | christalcleardesigns@gmail.com              |
+| 5787334525  | discoveryourbestself           | Discover Your Best Self        | discoverbestself@gmail.com                  |
+| 317481070   | mrslangfordstrong              | Latitia Langford               | smit20001@hotmail.com                       |
+| 1728614255  | looksbyleaterllc               | LooksByLeaterLLC               | lesterewing@ymail.com                       |
+| 2534163796  | gossipingheifers               | Gossiping Heifers              | gossipingheifers@gmail.com                  |
+| 11089637745 | creativeconversationshou       | Creative Conversations         | txblackinteriordesignsymposium@gmail.com    |
+| 645699553   | taxexpert                      | Tax + Financial Expert         | info@taxcody.com                            |
+| 435426635   | myacarroll                     | Mya Carroll, Texas REALTOR®️   | info@myacarroll.com                         |
+| 1256729676  | regionalconsult                | Career Optimization Coach      | jhines@regionalconsult.com                  |
+| 33199345    | tictoc_photography             | HOUSTON EVENT PHOTOGRAPHY      | tictocphoto@gmail.com                       |
+| 3564540538  | ashleymilburn_realtor          | Ashley Milburn                 | ashleymilburnre@gmail.com                   |
+| 35394139    | blakemotivates                 | Professor B                    | info@blakemotivates.com                     |
+| 632801688   | laylaloveevents                | Sadaf Khan                     | laylaloveevents@gmail.com                   |
+| 454112641   | tonesystem.fitness.performance | Odis Little                    | info@tonesystem.net                         |
+| 7902595277  | icecoldtvnews                  | IceColdTVTelevisionNetwork     | icecoldtvceo@gmail.com                      |
+| 216592616   | ms_shareaq                     | Sharea Quarles                 | connect@cherrieontop.org                    |
+| 7043099     | iam_kwandacarter               | Kwanda Carter                  | casinopinkpup@yahoo.com                     |
+| 2052044459  | uhadmissions                   | UH Office of Admissions        | admissions@uh.edu                           |
+| 358101417   | tristenesutton                 | Tristen | Facebook Ads Expert  | tristen@tristensuttonconsulting.com         |
+| 17567339    | mr_j_milo                      | James Milo                     | quickcashtax@gmail.com                      |
+| 3035256879  | classyyoubc                    | Classy You By Chrissy Mixon    | service@classyyoubychrissy.com              |
+| 350614826   | phplaybook                     | Work & Play Lifestyle Blogger  | cori@playhardplaybook.com                   |
+| 599515617   | bigantsworld                   | Anthony "Ant" Colbert          | anthony@krghou.com                          |
+| 6582752     | ms.hobbs                       | MoeConnect “God’s Connector”   | mshobbs@moeconnect.com                      |
+| 14663844    | iamdjsupastar                  | DjSupastar                     | BookDjSupastar@gmail.com                    |
+| 964720670   | thecreditbosss                 | The Credit Boss                | GetResults@thecreditboss.org                |
+| 27879385    | yolandagreenxpozher            | Yolanda Green                  | xpozher@gmail.com                           |
+| 223196921   | josettecouture                 | Josette Golatt JOSETTE COUTURE | josette@josettecouture.com                  |
+| 175173296   | thediesthestylemaster          | Thedies-Wardrobe Stylist       | thediesthestylemaster@gmail.com             |
+| 688916491   | vettablu                       | Plus Size Model Blu🦋           | modelc.lane5@gmail.com                      |
+| 37328687    | texas101jams_ceo               | GoGetta "CEO Of Texas101jams"  | texas101jams@gmail.com                      |
+| 2358258402  | kristalspeaks                  | Kristal Frazier                | kristal@fundjoy.org                         |
+| 5720609823  | tamekaraquelhair               | Tameka Raquel                  | tamekaraquel@gmail.com                      |
+| 4529735106  | bougieflamme                   | Bougie Flamme Bath & Body      | admin@bougieflamme.com                      |
+| 30230314    | gotnailsbycoco                 | Audrey J Jefferson             | gotnailsnailtique@gmail.com                 |
+| 3171926922  | andruscomm                     | Andrus Communications          | info@andruscommunications.com               |
+| 7885902213  | yougot_beauty                  | YOU GOT BEAUTY                 | gdatkins22@gmail.com                        |
+| 42205831    | monicablackshire               | Monica Blackshire Photography  | Info@monicablackshire.com                   |
+| 1434594194  | seaq_tutors                    | SEAQ Tutorial Services ,LLC    | braveassetmgt@outlook.com                   |
+| 6971279642  | ajkellyproductions             | Aj & Kelly | Videographers     | info@ajkellyproductions.com                 |
+| 8535003218  | benebeyondhealth               | Bene Beyond Family Medicine    | benehealthsocialmedia@gmail.com             |
+| 35945885319 | mr.monsterservices             | Mr. Monster Services.          | gferrer@mrmonsterservices.com               |
+| 315861959   | innovatesocialmedia            | Suzette Cotto                  | info@innovatesocialmedia.com                |
+| 8633068463  | balancedmixav                  | 𝑩𝒂𝒍𝒂𝒏𝒄𝒆d 𝑴𝒊𝒙 𝑨𝒖𝒅𝒊𝒐 𝑽𝒊𝒔𝒖𝒂𝒍      | info@balancedmixav.com                      |
+| 583538767   | jowhitedesigns                 | Events, Desserts, Decor & More | info@jowhitedesigns.com                     |
+| 4754255048  | southernhousebuyersllc         | Southern House Buyers          | info@shbhtx.com                             |
+| 1560062572  | couturebarservice              | Couture Bar Service            | couturebarservice@gmail.com                 |
+| 6439334641  | lady.in.red.fashion.diary      | Lady In Red                    | tatababysfashion@gmail.com                  |
+| 484840840   | loveworkrepeat                 | Love.Work.Repeat.®             | infothemarriedlife@gmail.com                |
+| 2139173940  | pr_kristyna                    | PRKristyna Torres-Cruz         | prnetwork.ceo@gmail.com                     |
+| 402416724   | thejayevalentine               | #JayeValentine                 | bookings@thejayevalentine.com               |
+| 514126995   | thespot3rdward                 | The Spot 3rd Ward              | info@thespot3rdward.com                     |
+| 637127738   | exchangetochange               | Exchange to Change             | ShopE2C.info@gmail.com                      |
+| 2344966355  | uhbbsa                         | BBSA University of Houston     | pres.bbsa@gmail.com                         |
+| 4261650001  | daretodclaire                  | D. Claire Designs & Homes, LLC | tia@dclairedesigns.com                      |
+| 15655056873 | beuboutiqueslayyyy             | BeU Boutique                   | beuboutiqueslay@gmail.com                   |
+| 4083599998  | thedailybreadchurch            | The Daily Bread Church         | thedailybread@thedailybread.org             |
+| 33645961    | mckut                          | Mc Kut                         | mckut713@gmail.com                          |
+| 31726807    | ms.marisolsconiers             | Ms.Marisol Sconiers            | queenisiracing@outlook.com                  |
+| 178129098   | sytarra                        | The Royale Brand               | theroyalebrand@gmail.com                    |
+| 2237233820  | polishedoccasions              | Polished Occasions by Aiyesha  | polishedoccasionsstaff@gmail.com            |
+| 3288579031  | ambermarieevents               | Amber Marie, Event Planner     | ambermarieevents@yahoo.com                  |
+| 5794101441  | yateslawoffice                 | Law Office of Yates & Assoc.   | admin@yateslawpllc.com                      |
+| 3843753245  | unitynationalbanktexas         | Unity National Bank            | info@unitybanktexas.com                     |
+| 8063043432  | completechildcaresolutions     | Complete Childcare Solutions   | info@completechildcaresolutions.com         |
+| 17882128701 | dlb_travels                    | DeAndrea Burroughs             | dlbtravels713@gmail.com                     |
+| 2261748920  | vaughnmediallc                 | Chaun Vaughn                   | admin@chaunvaughnspeaks.com                 |
+| 14011306    | _laidbycarl                    | Xavier-carl Walker             | laidbycarl@gmail.com                        |
+| 718263378   | theliftedlifestyle             | The Lifted Lifstyle®️LLC       | info@theliftedlifestyle.com                 |
+| 1727634839  | allure_beauti                  | Allure Naturelle               | info@naturellebeauti.rocks                  |
+| 12385665422 | puma2020staffing               | Puma Staffing                  | mike@pumastaffing.com                       |
+| 54841330    | chefdeedeecooks                | Chef DeeDee Coleman            | chefdeedee@southerncookinggirlcreations.com |
+| 8723374     | mobangmedia                    | MoBangMedia.com                | mobangmedia@gmail.com                       |
+| 245013923   | thehostwithdamost              | Chris Dubai                    | chrisdubai@roserichradio.com                |
+| 2025450912  | shrinecenterhou                | Shrine Cultural & Event Center | nailah@shrinebookstore.com                  |
+| 1384404210  | tabletalktreats                | Table Talk Treats              | tabletalktreats@gmail.com                   |
+| 527588440   | pinklomein_                    | P I N K L O M E I N  LLC       | info@pinklomein.com                         |
+| 545038762   | chineduogu                     | CHINEDU                        | mynameischinedu@gmail.com                   |
+| 303710239   | ktrain_713                     | 💈HOUSTON BARBER💈               | mcclainkatrina72@gmail.com                  |
+| 1308852525  | double_take_fashions           | Double Take Fashions           | doubletakef4m@yahoo.com                     |
+| 11905468209 | alfredsconstruction            | Houston Construction           | nancyf@alfredsconstruction.com              |
+| 795698060   | cutsbyced                      | CutsByCed                      | cutsbyced215@gmail.com                      |
+| 1683091800  | eventswithdarrell              | Events with Darrell Weddings   | info@eventswithdarrell.com                  |
+| 1309265812  | thepoleexperience              | The Pole Experience Dance Fit  | info@thepoleexperience.com                  |
+| 1227883596  | precruise                      | PreCruise International        | info@precruise.com                          |
+| 1595217036  | silverbacksamurai              | Michael De'Jean Moore          | mrdntwn@hotmail.com                         |
+| 324888971   | estherscajuncafe               | Esther's Cajun Cafe&Soul Food  | estherscajun@yahoo.com                      |
+| 7059164734  | dmrproperties                  | Don Reid                       | dmrproperties2018@gmail.com                 |
+| 1433966183  | anna_theestylist               | Anna Theestylist Milligan      | milliganana@gmail.com                       |
+| 23150471558 | houston_pdas                   | PediatricDentalAssistantSchool | admissions@houstonpdas.com                  |
+| 389176469   | houurbanleague                 | Houston Area Urban League      | pyates@haul.org                             |
+| 2036519428  | kingjdconcepts                 | King JD Concepts               | kingjdconcepts@gmail.com                    |
+| 282529052   | weddingcakesbytammyallen       | Wedding Cakes by Tammy Allen   | tammy@weddingcakesbytammyallen.com          |
+| 12775105    | aviancedestinee                | aviancedestinee                | trainwithdes@yahoo.com                      |
+| 1030544361  | teyeservices                   | The Lady Eye-Services          | info@theladyeyeservices.biz                 |
+| 1412800852  | repjacksonlee                  | Rep. Sheila Jackson Lee        | sjltx18@gmail.com                           |
+| 1382555447  | infusedcreationz               | infusedcreationz by Doria      | infusedcreationz@gmail.com                  |
+| 4256689919  | th3.oracl3                     |                                | thebreakthroughagency@gmail.com             |
+| 1501904895  | happystems                     | Happy Stems Flower Co LLC      | flowers@thehappystemsco.com                 |
+| 1244635791  | jacquelinecamphor              | CPA | Wealth Coach             | jacqueline@jacquelinecamphor.com            |
+| 4765214431  | kimberly_cares_llc             | Kimberly Cares, LLC            | info@kcaresmore.com                         |
+| 22853480    | bossladyjaye                   | Rapper.Mogul.Hustler👜          | bossladyjaye713@gmail.com                   |
+| 2318455907  | thedjeventgroup                | The DJ Event Group             | thedjeventgrouphtx@gmail.com                |
+| 1422270388  | dbarhouston                    | DBar 4409 Emancipation Ave     | dbarhou@gmail.com                           |
+| 6817247142  | precise_signatures_llc         | Precise Signatures, LLC        | preciousritell@precisesignatures.com        |
+| 511405846   | yanniecakesbykia               | YannieCakes By Kia 🎂 Baker     | yannie_cakes@yahoo.com                      |
+| 254563445   | v_michelle_stephenson          | Michelle Stephenson            | michelle@vmscommunications.net              |
+| 31397370    | edenizparadise                 | #ArmadaleVodka                 | edenizparadise@gmail.com                    |
+| 6752362228  | broadwayenergyus               | Broadway Energy                | info@broadwayenergyus.com                   |
+| 4822147312  | lne_show                       | THE L.N.E SHOW                 | thelneshow08@gmail.com                      |
+| 207458134   | deidreworldwide                | Hotelier & World Traveler      | deidre@wanderstayhotels.com                 |
+| 1422270388  | dbarhouston                    | DBar 4409 Emancipation Ave     | dbarhou@gmail.com                           |
+| 6817247142  | precise_signatures_llc         | Precise Signatures, LLC        | preciousritell@precisesignatures.com        |
+| 511405846   | yanniecakesbykia               | YannieCakes By Kia 🎂 Baker     | yannie_cakes@yahoo.com                      |
+| 254563445   | v_michelle_stephenson          | Michelle Stephenson            | michelle@vmscommunications.net              |
+| 31397370    | edenizparadise                 | #ArmadaleVodka                 | edenizparadise@gmail.com                    |
+| 6752362228  | broadwayenergyus               | Broadway Energy                | info@broadwayenergyus.com                   |
+| 4822147312  | lne_show                       | THE L.N.E SHOW                 | thelneshow08@gmail.com                      |
+| 207458134   | deidreworldwide                | Hotelier & World Traveler      | deidre@wanderstayhotels.com                 |
+| 1708084034  | solutionfirm                   | Solution Firm                  | anusolutionco@gmail.com                     |
+| 104799407   | cbcluxe                        | CBC Luxe Chauffeured Transp.   | info@cbcluxe.com                            |
+| 7287015559  | texasgulfcoastinsurance        | Texas Gulf Coast Insurance     | info@tgcia.com                              |
+| 1176149004  | htvhouston                     | Houston Televison              | williamsdwight237@gmail.com                 |
+| 45717603    | eprint2day                     | eprint2day                     | print@eprint2day.com                        |
+| 2545110516  | businessconnoisseur            | Business Connoisseur           | info@businessconnoisseurs.com               |
+| 9188435442  | beauti4ashescandles            | Beauty for Ashes               | theoilofjoy613@gmail.com                    |
+| 1405800075  | glam24beautybar                | Houston Healthy Hairstylist    | glam24beautybar@gmail.com                   |
+| 1749229876  | thetroubledmovement            | The Troubled Movement, Inc.    | info@thetroubledmovement.org                |
+| 6062961795  | interporthouston               | Interport Sea-Shipping         | info@interporthouston.com                   |
+| 479673835   | prcfestival                    | Puerto Rican & Cuban Festival  | INFO@PRCFestival.com                        |
+| 39941709    | takingkidzplaces               | 24 Hour Childcare              | gotkidzneedhelp@gmail.com                   |
+| 3912679765  | grfxmarketing                  | GrfxMarketing                  | info@grfxmarketing.com                      |
+| 2054297620  | hodgsonmarketing               | Hodgson Marketing              | jacob@hodgsonmarketing.com                  |
+| 713801809   | xavierjames713                 | PROFESSOR X                    | theurbanhipsters@gmail.com                  |
+| 39276470    | theorderedstep                 | Wedding Planning in Houston    | info@theorderedstep.com                     |
+| 231982031   | msvhushradio                   | Hush Radio                     | hushmsv@gmail.com                           |
+| 2935700233  | theboutwellteam                | Cindy Boutwell                 | cindy@theboutwellteam.com                   |
+| 6621673227  | texasapartmentexperts          | Texas Apartment Experts        | info@texasapartmentexperts.com              |
+| 1419402758  | designsby_marissallc           | Designs by Marissa LLC         | designsby_marissa@yahoo.com                 |
+| 5562760578  | enlightened_soulsnow           | ENLIGHTEND SOULS               | enlightenedsoulsnow@gmail.com               |
+| 863646148   | joivenison_esq                 | Entreprenuer & Biz Attorney    | info@thefirmcbgroup.com                     |
+| 53091908    | cherishthisphotography         | Cherish This Photography       | ashley@cherishthisbyashley.com              |
+| 5400539186  | thehouseofcouturehouston       | The House Of Couture           | thehouseofcoutureboutique@gmail.com         |
+| 598350061   | chrissybwear                   | Ms.#CBWFLY w/ The Tea (CBD)    | chrissybwear@gmail.com                      |
+| 24184061    | moemoneymccoy                  | Movie Star ⭐️ Moe McCoy        | fireprooftvinc@gmail.com                    |
+| 3070091951  | gourbanhouston                 | GoUrban Houston                | social.gourbanhouston@gmail.com             |
+| 1595700985  | clothandcord                   | Cloth & Cord                   | info@clothandcord.com                       |
+| 223799277   | teazedl                        | Tea'ze Daiquiri Lounge         | teazedaiquirilounge@gmail.com               |
+| 2074461318  | misshoustonvenezuela           | Miss Houston Venezuela         | infomisshoustonvenezuela@gmail.com          |
+| 4114674759  | melrosecreativesuite           | Mel Rose Creative Suite        | melrosecreativesuite@gmail.com              |
+| 490378815   | mintdentistry                  | MINT dentistry                 | social@mintdentistry.com                    |
+| 22530614    | chefmattbasile                 | Matt basile                    | catering@fidelgastro.ca                     |
+| 1502429716  | firstclasstrucking             | First Class Trucking           | info@firstclasstruckn.com                   |
+| 23611205    | dru_evans_                     | Dru Evans                      | rebydru@yahoo.com                           |
+| 538173079   | latinbiteskitchen              | Latin Bites Kitchen            | info@latinbitescafe.com                     |
+| 193137384   | marcusbowerstv                 | MARCUS BOWERS | Globalpreneur  | marcusbowers@yahoo.com                      |
+| 53704553    | houstonbraziliancarnaval       | Next Brazilian -Lydia Pinto    | events@nextbrazilianproductions.com         |
+| 4566406171  | thecorporatekreative           | The Corporate Kreative         | info@thecorporatekreative.com               |
+| 52506687    | partypresentation              | Its All About The Details      | info@thepartypresentation.com               |
+| 3045412911  | southerngirlcreative           | Southern Girl Creative         | hello@southerngirlcreative.com              |
+| 427897806   | blackpapercreative             | Giavonni French                | hello@giaheartdesign.com                    |
+| 34389083813 | centraltucson.co               | Central Tucson Companies       | centraltucsonco@gmail.com                   |
+| 1425508849  | thecolorcode2014               | The Color Code                 | thecolorcode2014@gmail.com                  |
+| 2147694119  | womenofcolorinevents           | Women Of Color In Events       | womenofcolorinevents@gmail.com              |
+| 4143147257  | speaksuccessinc                | Speak Success                  | info@speaksuccess.org                       |
+| 5475044972  | dreambuildsuccess              | 🌐Strategist ➕ Mentor           | info@dreambuildsuccess.com                  |
+| 18287775528 | equilibertyinc                 | EQUILIBERTY INC.               | info@equiliberty.com                        |
+| 21500747    | artbyabiola                    | Art By Abiola                  | info@artbyabiola.com                        |
+| 2348902923  | brianthomasspeaks              | Fast Track 2 Six Figures       | www.kipnspire@gmail.com                     |
+| 2874247781  | theiamqueenhair                | Healing Touch -Texture Master  | Theiamqueen@gmail.com                       |
+| 55383681    | vern_spoiled                   | Verneashia Allen               | verneashia_allen@yahoo.com                  |
+| 2894381191  | treehousehtx                   | Tree House Coffee & Yogurt     | info@treehousetx.com                        |
+| 1974410800  | jeconi_couture                 | Jeconi Jacobs Jeffrey          | degod4life@yahoo.co.uk                      |
+| 1434906627  | j.mimmsvisions                 | JMimms                         | j.mimmsvisions@gmail.com                    |
+| 14445526    | ibrandmedia                    | Graphic Designer               | byron@launchinhouston.com                   |
+| 1637345972  | iamsokate                      | "𝕀 𝔸𝕄 𝕊𝕆 𝕂𝔸𝕋𝔼" Houston, TX     | nadia@iamsokate.com                         |
+| 1997711918  | 713lyfe                        | 713 Lyfe                       | info@713lyfe.com                            |
+| 6949440860  | daniels_law_firm               | Daniels Law Firm               | cd@thedanielslawfirm.com                    |
+| 177526797   | therealbrendaolivarez          | The Beauty Boss                | therealbrendaolivarez@gmail.com             |
+| 194562359   | signaturedetails               | KaTina Washington, MBA         | katina@signaturedetailsevents.com           |
+| 211120873   | houstons_ladies_night_out      | Houston's Ladies Night Out     | houstonsladiesnightout@gmail.com            |
+| 6911571482  | letspartyhtx                   | Houston Event & Party Vendors  | jasmine@letspartyhtx.com                    |
+| 893041915   | blackprofessionalsonline       | BlackProfessionalOnline.com    | info@blackprofessionalonline.com            |
+| 995173408   | bornidentityproject            | Non-Profit Consulting Agency   | bornidentityproject@gmail.com               |
+| 442851334   | trainerkb                      | Kerry Bennett                  | kb@beastsquad.net                           |
+| 6967069314  | its.macmittens                 | Marcus Cannon                  | info@ob1solutions.com                       |
+| 11165881573 | indelible_travel               | Indelible_Travel:Agent Miya    | indelibletravels@gmail.com                  |
+| 7239351993  | 7afunding                      | 7afunding                      | info@7afunding.com                          |
+| 1220196249  | edwardpollard.esq              | Edward Pollard                 | epollard@pollardlegalgroup.com              |
+| 800405989   | thecamagency                   | The CAM Agency                 | marketing@camagencyllc.com                  |
+| 1278439974  | thebreakoutr00m                | JT                             | jiabros@icloud.com                          |
+| 7191498882  | quenchivstudio                 | Quench IV Studio               | info@quenchivstudio.com                     |
+| 181256431   | blackboxshows                  | BlackBox Event Production      | david@n8brandmarketing.com                  |
+| 471505493   | hloyalpr                       | Hloyal Management And PR [TM]  | Williamharris@Hloyalglobal.com              |
+| 186765551   | barryspizza                    | Barry's Pizza                  | shawna@barryspizza.com                      |
+| 180208000   | earnestpugh                    | Earnest Pugh #PMANMUSIC        | clive.ennis@canthony.com                    |
+| 12623297188 | im_the_overcomer               | Meme Smith                     | theovercomerstx@gmail.com                   |
+| 6673576676  | eyeconictelevision             | Eyeconic Television            | info@eyeconictelevision.com                 |
+| 1768466956  | ieathouston                    | Ieathouston                    | ieathouston@gmail.com                       |
+| 1443410813  | j_lewis_ice_carvings           | J lewis Ice carvings           | jlewisicecarvings@gmail.com                 |
+| 7101048556  | play.choose.date               | P.C.D.™️ | Dating W/a Twist    | play.choose.date@gmail.com                  |
+| 4383831385  | allzydecoevents                | ZydecoEvents.com               | email@zydecoevents.com                      |
+| 178560844   | chicsoiree_events              | Chic SoireeEvents 832.646.9147 | ChicSoireeWeddings@gmail.com                |
+| 1403684780  | theprototypeco                 | The Prototype Company          | theprototypepr@hotmail.com                  |
+| 2937306407  | peopletopeopleplumbing         | People to People Plumbing      | peopletopeopleplumbing@yahoo.com            |
+| 208756994   | jfreshthagod                   | Mr.Craig                       | umfresh@gmail.com                           |
+| 2116580385  | fulldisclosure.me              | Full Disclosure                | brandyurself@outlook.com                    |
+| 1028837001  | bfcrcares                      |                                | christina.beanstalkfcr@gmail.com            |
+| 21682855    | miastokestha1                  | Mia Stokes                     | mstokesent@gmail.com                        |
+| 1533479666  | hashtagourmedia                | Ourmedia                       | misscincharge@yahoo.com                     |
+| 2692512455  | davidoffgeneva                 | Davidoff of Geneva since 1911  | customercare.us@davidoffgeneva.com          |
+| 3125822882  | doyourthingman                 | Errol Allen                    | errol@errolallenconsulting.com              |
+| 2110955902  | realmunafarah                  | Muna Farah                     | mfarah@cbunited.com                         |
+| 1137754385  | purposefulpathways1            | Purposeful Thoughts            | purpose@vickisylvain.com                    |
+| 21276855455 | pwrseller                      | Prestige Worldwide Realty      | maryjaynek@kw.com                           |
+| 601064816   | houblackchamber                | Greater Houston Black Chamber  | info@ghbcc.com                              |
+| 484524616   | lasting_empressions            | Events Around The Globe        | info@lastingempressions.com                 |
+| 3406925138  | aweinspireddesigns             | Awe Inspired Designs           | info@aweinspireddesigns.com                 |
+| 3171190089  | miraclescleaningservices       | Miracle                        | miraclescleaningcare@gmail.com              |
+| 189568390   | the_prestigelifestyle          | Prestige Lifestyle             | rshdallen@gmail.com                         |
+| 9047436     | shoproyalbleau                 | Royal Bleau Btq 💙Est.2011🛍     | royalbleauatl@gmail.com                     |
+| 4163220242  | tgmedia_                       | Social Media Marketing         | tgmediacontent@gmail.com                    |
+| 5467602903  | roomerhasitstagingandrestyling | ROOMERHASIT                    | roomerhasitsr@gmail.com                     |
+| 35037694    | kingjaybarnett                 | Jay Barnett                    | jay@jay-barnett.com                         |
+| 3510135960  | dionneburnleyrealtor           | Houston REALTOR 🖤              | burnley.dionne@gmail.com                    |
+| 1790107999  | mrayeallenmarketing            | M.Raye Allen Marketing         | mrayeallenmarketing@gmail.com               |
+| 7099441108  | richcoffeenow                  | Rich Coffee Now                | richcoffeenow@gmail.com                     |
+| 6786177038  | sessionboutique_               | Session Boutique               | shopsessionboutique@gmail.com               |
+| 222187204   | beauteparlondon_               | All Things Girls Love 😍        | beauteparlondon@yahoo.com                   |
+| 347876305   | stampandcoevents               | Britany Chanel -Event Stylist  | stampandcompany@gmail.com                   |
+| 2255140846  | midwestconeyconnection         | Midwest Coney Connection L.L.C | midwestconey@yahoo.com                      |
+| 3514277151  | tmcinnovation                  | TMC Innovation                 | ereiser@tmc.edu                             |
+| 1076816987  | tiffanyraelifestyle            | 💚✨The Calming Spot ✨💚          | tiff3landor@icloud.com                      |
+| 1706783615  | shutthekluckup                 | Food Blogger - Houston,TX      | shutthekluckup@gmail.com                    |
+| 4149398733  | traviscalstyles                | traviscalstyles                | travis.cal@hotmail.com                      |
+| 2368687098  | sheandsheparty                 | She and She Party Concierge    | sheandsheconcierge@gmail.com                |
+| 6982929011  | kamikoozie.cups                | Kamikoozie Cups                | kamikooziecups@outlook.com                  |
+| 14526409880 | officialiconevents             | Icon Events                    | officialiconevents@gmail.com                |
+| 4349784729  | _printplugie                   | Screenprinting & Embroidery    | printplugie@gmail.com                       |
+| 437345692   | s.e.e.d_training               | Dr. Shyrell Hobson-PT Page     | seedfitnesstraining@gmail.com               |
+| 5548723621  | desj_sellscars                 | Des J Sells Cars               | djohnson@westsidelexus.com                  |
+| 1646282550  | michaelinsurance               | J and B Insurance              | michaelinsurance@gmail.com                  |
+| 2297177922  | ms.sparella                    | AlstrPartyProductions          | sparella@gmail.com                          |
+| 727255354   | reasonablelinens               | Reasonable Linens & Uplights   | reasonablelinens@gmail.com                  |
+| 1665781193  | hhoffinance                    | Houston Housewives of Finance  | info@houstonhousewivesoffinance.com         |
+| 1774582885  | prostatushouston               | 𝐏𝐑𝐎 𝐒𝐭𝐚𝐭𝐮𝐬|𝐄𝐬𝐭. 𝟐𝟎𝟏𝟏✊🏼✊🏽✊🏾     | info@prostatushouston.com                   |
+| 3601404822  | hbtsa                          | Historic Black Towns           | nationalhbtsa@gmail.com                     |
+| 1556415588  | planetmcnair                   | PlanetMcNair ™                 | info@planetmcnair.com                       |
+| 4363890649  | behealthybewellapparel         | Be Healthy Be Well Apparel     | healthwellnesslifestyletv@gmail.com         |
+| 9305316235  | thereynapacheco                | 𝐑𝐄𝐘𝐍𝐀 | Self Discovery Coach🖤  | pach.reyna98@gmail.com                      |
+| 307426923   | raveneauxcountryclub           | Raveneaux Country Club         | info@raveneaux.com                          |
+| 1424883332  | masterstylist_mzhollywood      | MasterStylist MzHollywood      | dshawns119@gmail.com                        |
+| 2435618901  | intellectualcollateralpodcast  | Intellectual Collateral        | jnos.pr@gmail.com                           |
+| 261370023   | yeshairco                      | Grow Healthy Hair Products     | support@yeshairnow.com                      |
+| 4053813381  | bsfnigeria                     | Nigeria Bobsled & Skeleton     | ngawomensbobsled@gmail.com                  |
+| 1978843385  | letstalkteentalk               | #LetsTalkTeenTalk              | letstalkteentalk@gmail.com                  |
+| 197244088   | miascloset                     | miascloset                     | miasclosethouston@gmail.com                 |
+| 1059309619  | enhancedevents                 | Enhanced Events                | enhancemyevent@gmail.com                    |
+| 5533729908  | the.ibrand                     | ⬆️Income ⬆️Independence        | passivemoney22@gmail.com                    |
+| 4250826769  | cultura_eastendhou             | CULTURA | East End Foundation  | hello@eastendfoundation.org                 |
+| 3081365588  | a1_presidential_cleaning       | William Reaws                  | a1presidentialcleaning@yahoo.com            |
+| 399326687   | barcodehouston                 | Barcode Houston                | urbanonepromotions@gmail.com                |
+| 4606126853  | dlbmedbilling                  | dlbmedbilling                  | info@dlbmedbilling.com                      |
+| 192375573   | souniquecandyapples            | So Unique CandyApples & Sweets | souniqueevents@gmail.com                    |
+| 8223041378  | westchaseautoglass             | Westchase Auto Glass           | Westchaseautoglass@gmail.com                |
+| 10679961789 | legendskitchen4                | LegendsKitchen                 | legendskitchen2019@gmail.com                |
+| 6672025118  | bosswomencook                  | Boss Women & Men Cook          | kk@bosswomencook.com                        |
+| 14320427969 | jinks_marriedtobusiness        | Jinks Married To Business      | lecreame.jinks@gmail.com                    |
+| 403554991   | phoenixwomensoutreach          | Phoenix Women's Outreach       | info@phoenixwomensoutreach.org              |
+| 4054813094  | spiffyandprissy                | Spiffy & Prissy                | spiffyandprissy@gmail.com                   |
+| 7517991669  | houstonlatin_fest              | HOUSTON  LATIN  FEST ©️        | houstonlatfest@hotmail.com                  |
+| 1768466956  | ieathouston                    | Ieathouston                    | ieathouston@gmail.com                       |
+| 1640988110  | hispanicjobs                   | Hispanic-Jobs.com              | jobopportunities@hispanic-jobs.com          |
+| 208903398   | jenniferkorine                 | Jenni from da block            | jennibellestyles@gmail.com                  |
+| 196212195   | the_credit_connoisseur         | Shaundretta Boykins            | shaundretta@thecreditconnoisseur.com        |
+| 3612890221  | yourdelishlife                 | 832-506-7347                   | nicole@thatdelishlife.com                   |
+| 3234711959  | rsisystems                     | RSI Systems                    | sales@rsisystems-houston.com                |
+| 1947035943  | genesbargrill                  | Gene's Bar & Grill             | genesbargrill@gmail.com                     |
+| 1206296907  | queenlyfe1                     | QueenLyfe™                     | info@queenlyfe.org                          |
+| 179458434   | slaughtahouze_conglomerate     | SlaughtaHouze/Newmann Dist.    | slaughtahouzeradio@yahoo.com                |
+| 7542037595  | schenleyt                      | Schenley                       | schenley.green.hoam@gmail.com               |
+| 1086125219  | shockingjohn                   | John Sharp                     | shockingjohn.energy@yahoo.com               |
+| 4469116233  | op3marketingsolutions          | OP3 Marketing Solutions        | info@op3marketing.con                       |
+| 1968725861  | lblimitededitions              | Lisa Burns-Mananga             | nanalisa2002@yahoo.com                      |
+| 3425853597  | adissweettreats                | Adi's Sweet Treats             | adissweettreats@gmail.com                   |
+| 9730144341  | nflpa_houston                  | NFLPA_HOUSTON CHAPTER          | info@hufoh.com                              |
+| 2305153583  | theessentialwebsite            | The Essential Website          | info@theessentialwebsite.com                |
+| 196321267   | dpgsucboss                     | BOSS                           | bossyinc@gmail.com                          |
+| 6578803438  | space_4102                     | Space 4102                     | info@space4102.com                          |
+| 6371097614  | heartworks_houston             | HeARTworks                     | privateartevents@gmail.com                  |
+| 4069157230  | make_the_trap_great_agin       | Ipod baddies‼️                 | itsipodbih@gmail.com                        |
+| 3271628331  | millionairegirlsclub_          | Millionaire Girls Club         | info@themillionairregirlsclub.biz           |
+| 2209928114  | firstchoicepower               | First Choice Power             | socialmedia@directenergy.com                |
+| 4334801050  | africaonmyback                 | Africa On My Back              | africaonmyback@gmail.com                    |
+| 213916081   | limos24llc                     | Limos24llc                     | info@limo24llc.com                          |
+| 4268075950  | printplug_ie                   | Make your custom clothes!      | PrintplugIE@gmail.com                       |
+| 1537838737  | arrowpcreations                | Arrow P Creations              | arrowpcreations@gmail.com                   |
+| 3309887141  | houston_mouves                 | Houston Mouves                 | info@houstonmouves.com                      |
+| 1537838737  | arrowpcreations                | Arrow P Creations              | arrowpcreations@gmail.com                   |
+| 3309887141  | houston_mouves                 | Houston Mouves                 | info@houstonmouves.com                      |
+| 2166096795  | 41twentytwo                    | 41 TwentyTwo Events + Rentals  | corey@tablecraftevents.com                  |
+| 2012521876  | wlacompany                     | Kimberly Smith                 | info@wlacenter.com                          |
+| 522338614   | majesticmoments                | Majestic Moments by Dom        | majesticmomentsbydom@gmail.com              |
+| 42533689338 | tabla.htx                      | Tabla Specialty Boards         | tabla.htx@gmail.com                         |
+| 7655436422  | kpphotography5                 | KP Photography                 | kpphotography5@yahoo.com                    |
+| 1030835741  | uptowncandybar                 | UPTOWN CANDY BAR               | uptowncandybar@gmail.com                    |
+| 5891663590  | cakesofthesouth                | Cakes Of The South             | info@cakesofthesouth.com                    |
+| 4770225416  | travel_withusonly              | Travel With Us Travel          | travelwithusonly@yahoo.com                  |
+| 354278733   | thebspotbarbershop             | The B Spot Barbershop          | thebspottv@gmail.com                        |
+| 347549817   | thegitegallery                 | The Gite Gallery               | info@thegitegallery.com                     |
+| 2052073997  | artistjourneyallen             | Artist Journey Allen           | artistjourneyallen@gmail.com                |
+| 1707076134  | xpressionsphotobooths          | Xpressions Photo Booths        | xpressionsphotobooths@gmail.com             |
+| 918142510   | snobzofhoustonent              | Snobz Houston                  | nitawooten@yahoo.com                        |
+| 341684188   | saithecooker                   | Supreme Sai                    | foreignboimusic@gmail.com                   |
+| 4328924463  | taxambassador                  | Taxbiz#2017                    | tonikawashington@gmail.com                  |
+| 2559059816  | fueledfashion                  | Fueled Fashion & Art Gala      | contact@fueledfashion.com                   |
+| 2295292071  | ofsihouston                    | OFSIH                          | info@ofsih.com                              |
+| 904701376   | discoveredia                   | EDIA Cosmetics For Hair™       | info@ediapro.com                            |
+| 4268837121  | priorityeventtx                | PRIORITY | Events Design Firm  | Priorityeventtx@gmail.com                   |
+| 2246977225  | mmarketingpr                   | #M Marketing & PR ✨            | mmarketingmanager@gmail.com                 |
+| 5052545556  | bjbrealtor                     | B R A N D O N  J.  B E R Z A S | info@iboughtwithb.com                       |
+| 2104639239  | atouchofdestiny                |                                | atouchofdestinyevents@gmail.com             |
+| 2089461176  | imsohouston                    | I'm So Houston Magazine        | Timothyhubbard2017@gmail.com                |
+| 1703313426  | thefunshop.mobile              | The Fun Shop 🚗🎨🎉               | cheryl.funshop@gmail.com                    |
+| 586543504   | colbyed9_789_m                 | Kapri Fridays                  | Info@dhdesignhouston.com                    |
+| 8359031794  | le_chateau_houston             | Le Chateau Bistro & Lounge     | info@thelechateauhouston.com                |
+| 4348846604  | onpointolivia                  | Olivia                         | olivia@onpointolivia.com                    |
+| 7850293569  | thetechperspective             | The Tech Perspective           | info.thetechperspective@gmail.com           |
+| 6072000223  | justfacebeauty                 | Just Face Beauty & Skin Bar    | justfacebeauty@gmail.com                    |
+| 6891005007  | outlett.co                     | Outlett                        | outlett.comp@gmail.com                      |
+| 3068175622  | texas_black_pages              | BLACK BUSINESS DIRECTORY       | txblackpages@gmail.com                      |
+| 11654729604 | mr.monstercleaningservices     | Mr Monster Cleaning & Services | contact.mrmonster@gmail.com                 |
+| 4348983647  | printplug.ie                   | Screenprinting & Embroidery    | printplugie@gmail.com                       |
+| 820729849   | gotcreditrepair                | "GOT CREDIT?"                  | info@gotcreditrepair.com                    |
+| 227781157   | ramsaymichellegroup            | The Ramsay Michelle Group      | info@ramsaymichellegroup.com                |
+| 5885034631  | yougogirlgang                  | Women Empowerment Social Org.  | yougogirlgang@gmail.com                     |
+| 4201722541  | _valus_                        | Valus                          | Valusbusiness@gmail.com                     |
+| 515467070   | iamsavaje                      | SAVAJEClothier and Alterations | createdforyou@ssavaje.com                   |
+| 591974528   | blueprint_consulting           | Blueprint Consulting           | info@blueprintconsulting.org                |
+| 4716696248  | elpaisabbqhoustontx            | El Paisa BBQ Houston           | elpaisabbqhpustontx@gmail.com               |
+| 1660582819  | majorphotography1              | chris wilson                   | chriswilson@majorphotography1.com           |
+| 4156412327  | exclusive_developing           | The_Exclusive                  | jaylenf46@gmail.com                         |
+| 2844204561  | thetopnotchnook                | The Top Notch Nook             | thetopnotchnook@gmail.com                   |
+| 1655741135  | chicsofhouston                 | CHICS Of Houston               | chicsofhouston@gmail.com                    |
+| 1955957155  | thrillaandvanilla              | Jeff Walters                   | Thrillaandvanilla@gmail.com                 |
+| 1920025457  | iamoliviajacobs                | OLIVIA JACOBS                  | iamoliviamay@gmail.com                      |
+| 1663023305  | _chaxter                       | Chaxter                        | travis.bryantune@gmail.com                  |
+| 3072695573  | flcotton                       | FlCotton                       | charnikarobinson@yahoo.com                  |
+| 3861985262  | solutions_financial            | Solutions Financial Wellness   | tybias5@gmail.com                           |
+| 6794193028  | flyerdistributionservices      | Footwork Flyer DistributionHtx | bdoesit.bb@gmail.com                        |
+| 4841862783  | blacktechtoys                  |                                | Gavinr@Ohwowevents.com                      |
+| 201109797   | 2loudmag                       | 2LOUD Magazine                 | loud.magazine@yahoo.com                     |
+| 372228912   | blingedbouquet                 | Wedding Brooch Bouquets        | blingedbouquet@yahoo.com                    |
+| 32769636023 | arepagourmet_                  | Arepa Gourmet                  | ArepaGourmetTX@gmail.com                    |
+| 3869027903  | houstonplayonpurpose18         | Houston Play On Purpose | HPOP | hollycdivine@yahoo.com                      |
+| 5370608535  | ridewithkoolkids               | Kool Kids Transportation®️     | info@ridewithkoolkids.com                   |
+| 1466171281  | substitutefathers_houstontx    | Substitute Fathers             | centerforlearning2016@gmail.com             |
+| 14446465274 | 1stsourcemms                   | 1stSourceMMS                   | info@1stsourcemms.com                       |
+| 13061016999 | remaxnorthwest                 | RE/MAX Northwest               | frontdeskrmnw@gmail.com                     |
+| 2953652510  | jrvaletparking                 | J&R                            | admin@jrvaletparkinghouston.com             |
+| 187411757   | bodybyerica25                  | Erica Price                    | bodybyerica25@gmail.com                     |
+| 5895207039  | tippyssoulfoodandcatering      | Tippys Soul Food & Catering    | tippyssoulfood@outlook.com                  |
+| 2204149958  | alexandrescaribbeanpeppers     | Alexandre's Caribbean Peppers  | info@hotpeppers.club                        |
+| 3058335246  | belle_luxe_hair                | Belle' Luxe                    | info@belleluxeboutique.com                  |
+| 3177430485  | whysgirls                      | WHYS Girls                     | info@whysgirls.com                          |
+| 1428119060  | emperessecls                   | Melissa Burciaga               | emperesseconcierge@gmail.com                |
+| 4781507089  | designbyblackat                | designbyBLACKAT                | blackatprofx@gmail.com                      |
+| 1721470358  | impactiamthemovment            | iMpact:iAmTheMovement          | impactiamthemovement@gmail.com              |
+| 1588512423  | gabrielrealty                  | Elvis Gabriel Realtor          | elvis@gabrielrealtytx.com                   |
+| 447741369   | sigmaprofessionalservices      | Sigma Professional Services    | contact@printwithsigma.com                  |
+| 3169763219  | exquisiteparkingservices       | EPS                            | info@epsvalet.com                           |
+| 2283363383  | blissfuldelightsbyashley       | Blissful Delights by Ashley    | info@blissfuldelightsbyashley.com           |
+| 228686863   | urdreamdesigner                | Dream Design Company           | christine@thedreamdesignco.com              |
+| 994416304   | tha_party_king                 | Tha Party King                 | thapartyking@gmail.com                      |
+| 12495672395 | sparklingklosetsboutique_      | 𝗦𝗽𝗮𝗿𝗸𝗹𝗶𝗻𝗴 𝗞𝗹𝗼𝘀𝗲𝘁𝘀 𝗕𝗼𝘂𝘁𝗶𝗾𝘂𝗲,ʟʟᴄ | Info@sparklingklosets.com                   |
+| 3143423735  | misscaribbeanunitedstates17    | Zoe                            | misscaribbeanunitedstates@gmail.com         |
+| 14647975215 | excellenceconcrete1            | Excellence Concrete            | excellenceconcrete@outlook.com              |
+| 1490429421  | canddmusicandent               | C&D Music and Entertainment    | msdesiree25@gmail.com                       |
+| 4482198222  | taba.houston                   | TABA Houston                   | taba.houston@gmail.com                      |
+| 5327368688  | mmvevents                      | Naomi                          | mmvevents@outlook.com                       |
+| 8284713892  | cypresscreekhospital           | Cypress Creek Hospital         | cypresscreekinfo@uhsinc.com                 |
+| 4213060434  | coach2coachbiz                 | Coach 2 Coach                  | info@coach2coaxh.biz                        |
+| 1505367633  | lahollandflowermarket          | Holland Flower Market L.A      | felipe@hollandflower.com                    |
+| 1655766072  | frontdeckalmeda                | FRONT DECK BAR AND GRILL       | ashtonremodeling@gmail.com                  |
+| 188085376   | powherful                      | The Chatman Women's Foundation | shantera@4empoweringwomen.org               |
+| 10227288104 | smartsmiletrainingcenter       | Smart Smile Training Center    | info4dentalassisting@gmail.com              |
+| 2269348957  | luxuryhousellc                 | Luxury House                   | luxeoptical@aol.com                         |
+| 4331477725  | creativecravings1              | Creative Cravings              | info@creative-cravings.com                  |
+| 1961683590  | dhcreativedesign               | Dh Creative Design & Marketing | Info@dhdesignhouston.com                    |
+| 5673449514  | asap.insurance                 | Asap Ins. a Division Of IOA    | asap.insurance@ioausa.com                   |
+| 1643562336  | iknowsomebodyhouston           | I Know Somebody Houston        | iknowsomebodyhouston@gmail.com              |
+| 3948857731  | southernhospitality__          | Southern Hospitality           | southernhospitalityradiohtx@gmail.com       |
+| 2109206182  | fademedia_                     | Fade Media • Consulting Firm   | info@fademedia.net                          |
+| 1705622486  | roadragehouston                | Road Rage Corporation          | roadragehouston@gmail.com                   |
+| 5390884381  | cwc_entcenter                  | Chicks With Class™ Store       | info@chickswithclass.com                    |
+| 1478393603  | tonyillproductions             | Tony ILL Productions           | ineedacartony@gmail.com                     |
+| 2695324241  | honeyyhookmeup                 | Let Honeyy Hook You Up         | Honeyyhookmeup@gmail.com                    |
+| 2218942351  | budblossomsinc                 | The Bud Blossoms Inc.          | budblossomsorg@gmail.com                    |
+| 1570612866  | shubertfitness                 | Jared Aaron Shubert            | jshubert248@gmail.com                       |
+| 1472045638  | comediennetressa               | Comedienne Tressa              | tressaisfunny@gmail.com                     |
+| 1487423547  | thehoustonhunter               | Tiffaney Dale                  | tiffaney@houstonhunter.com                  |
+| 7073604085  | afrocfo                        | AFRO CFO LLC                   | jcbrooks@afrocfo.com                        |
+| 5594064947  | thepeoplesadv                  | ThePeoplesAdvocate, LLC        | Peoples.Advocate1@gmail.com                 |
+| 1476204582  | surgicalsisters                | Surgical Sisters™              | support@surgicalsisters.com                 |
+| 32908308    | thaweavemaster                 | Lisa Jackson                   | hairweavingcenter@gmail.com                 |
+| 5587753493  | thecjja                        | Craig Johnson Jr. & Associates | thecjja@gmail.com                           |
+| 3229720896  | legendaryevents_               | Legendary Events               | info@thelegendaryevents.com                 |
+| 1733306407  | itsyourbirthdaysaturdays       | ITSYOURBIRTHDAYSATURDAYS.COM   | itsyourbirthdaysaturdays@gmail.com          |
+| 6170085163  | whatsyourimpetus               | Impetus Real Estate Partners   | impetusrealestate@gmail.com                 |
+| 2201732158  | sprinklemywedding              | Sprinkle My Wedding            | sprinklemywedding@gmail.com                 |
+| 3545908078  | blmhouston                     | blmhouston                     | blmhouston@gmail.com                        |
+| 2050890564  | tmelawestchase                 | Teachable Moments Westchase    | teachablemomentsela@gmail.com               |
+| 2520576211  | desknwork                      | DeskNWork Executive Suites     | manager@desknwork.com                       |
+| 1905163781  | helix_media                    | Helix Media 360                | wphillips@helixmedia360.com                 |
+| 6234779632  | albiterco                      | Albiter                        | Albiterco@gmail.com                         |
+| 1451096229  | houstonglamgeeks               | Houston Glam Geeks             | houstonglamgeeks@gmail.com                  |
+| 3093281382  | printingmadeasy                | Printing Made Easy             | info@printingmadeasy.com                    |
+| 4116919264  | prestigechirohtx               | Prestige Chiropractic          | candice@choosepc.com                        |
+| 4010147334  | chocolate_nutcracker           | Event divas                    | premierevents@yahoo.com                     |
+| 1085048135  | tiedtosolutions                | 501(c)3 organization           | info@tiedtosolutions.org                    |
+| 1140668865  | fabulousgirlsrock              | FABULOUS GIRLS ROCK™           | thefabulousgirlsrock@gmail.com              |
+| 5215244566  | personaltouchesevents          | Personal Touches Events        | personaltouchesevents@gmail.com             |
+| 7045102884  | solidandstriped_               | Solid & Striped                | LoveYourself@outlook.com                    |
+| 2868057735  | nailsbymonarkkosmetiks         | Monark Kosmetiks LLC.          | info@monarkkosmetiks.com                    |
+| 2317518305  | superiorwindowcompany          | Superior Window Company        | info@superiorwindowcompany.com              |
+| 3187559619  | boothbroshomes                 |                                | info@boothbrothershomes.com                 |
+| 3316676313  | plushtravelaffairs             | Plush Travel Affairs           | plushtravelaffairs@gmail.com                |
+| 30191390    | realtorcjoseph                 | Crystal Joseph, Realtor ®️     | cjoseph@cjleaseproperty.com                 |
+| 4960312889  | daconglomerate                 | Da Conglomerate                | daconglomerateparty@gmail.com               |
+| 1581616986  | tie.posh.knots                 | POSH KNOTS                     | ad1.tieposhknots@gmail.com                  |
+| 497185347   | beautyprosofhouston            | BeautyProsofHoustonTx          | beautyprosofhouston@gmail.com               |
+| 5493945703  | curetteboudin                  | CURETTE HOMEMADE BOUDIN        | 100proofamily@gmail.com                     |
+| 6994691755  | plante_law_firm                | Plante Law Firm                | victoria@plantelawfirm.com                  |
+| 5820197621  | tcmeals                        | TC Meals • Meal Prep Service•  | traviscooksyourfood@icloud.com              |
+| 22599041623 | pkfantares                     | PKF antares                    | info@pfcaccounting.com                      |
+| 6637784793  | b12group                       | B12 group                      | tmccullough9209@yahoo.com                   |
+| 16514187081 | thegrandwhiteusa               | thegrandwhiteUSA               | s.dau@worldoffestivals.events               |
+| 4116823860  | wrightwayconstuction           | Wright Way Const Services llc  | wrightway.construction@ymail.com            |
+| 5603717905  | primetime360media              | PrimeTime 360 Media            | primetime360media@gmail.com                 |
+| 2633329471  | kwswsugarland                  | KWSWSugarland                  | kwswsocialmedia@gmail.com                   |
+| 10234228040 | redcarpetpartybus              | #1 Party Bus Rental in Houston | theredcarpetlimo@gmail.com                  |
+| 5912099372  | incrediblenetworking           | IncredibleNetworking           | info@qgmnow.com                             |
+| 2265770940  | fitin_daily                    | Fit In Daily                   | fitindaily@gmail.com                        |
+| 8640354737  | culturisticpromotions_world    | The Culturistic Repost         | hypenoizee@gmail.com                        |
+| 6433484839  | night_time_medical_imaging     | Night Time Medical Imaging     | imagingatnight@gmail.com                    |
+| 5945865389  | fashionbombkids                | Fashionbombkids                | editorials@fashionbombdaily.com             |
+| 3441128476  | kcuniqueboutique               | KC Unique Boutique (kcub)      | kcuniqueboutique@gmail.com                  |
+| 4512061396  | smpropertyservices             | SM Property Services           | ilovesmpropertyservices@gmail.com           |
+| 1585406331  | caring4katy                    | Caring4Katy                    | trisha@caring4katy.com                      |
+| 6394795434  | empirestatetravels             | Empire State Travels           | empirestatetravels@gmail.com                |
+| 6343261135  | 6thousanddollarraise           | Scott S                        | 6thousanddollarraise@gmail.com              |
+| 1731743945  | mep_events                     | Mystique Ent&Productions       | mystiqueentproductions@gmail.com            |
+| 424435429   | akresaleshop                   | A & K Resale Shop              | akmarketingtx@gmail.com                     |
+| 3001132166  | hbrea713                       | HBREA                          | admin@hreahouston.com                       |
+| 301123882   | reflectivemediaproductions     | Reflective Media Productions   | info@reflectivelifeministries.org           |
+| 1288930137  | bgrand_event_design_           | Brandi Morgan                  | b_grand@outlook.com                         |
+| 1105165445  | byoblive                       | Build Your Own Brand Inc.      | makeithappen@byoblive.com                   |
+| 9498916351  | cataxservices                  | CA Tax Services                | cataxserviceshouston@gmail.com              |
+| 8655734203  | fiestacoogs                    | Fiesta Coogs!                  | fiestacoogs@gmail.com                       |
++-------------+--------------------------------+--------------------------------+---------------------------------------------+
